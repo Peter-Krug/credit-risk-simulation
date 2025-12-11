@@ -56,7 +56,7 @@ pip install pandas numpy matplotlib
 - The simulation is repeated 10,000 times.
 - All portfolio losses are saved and analyzed.
 
-## ML-Enhanced Credit Risk Simulation
+## 2. ML-Enhanced Credit Risk Simulation
 This version adds a Machine Learning approach to predict whether a loan will default, using the features EaD, PD, and LGD.
 
 ### Features
